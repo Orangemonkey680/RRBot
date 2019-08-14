@@ -140,4 +140,4 @@ function helpCommand(arguments, receivedMessage) {
 
 
 
-client.login("NjEwNjcyMzY5Njg1NDk1ODI3.XVIrMw.6qI0JJu_NHVqx7260sATfLNP_f8")
+client.login("")
